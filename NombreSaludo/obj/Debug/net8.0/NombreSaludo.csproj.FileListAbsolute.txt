@@ -1,0 +1,14 @@
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\obj\Debug\net8.0\NombreSaludo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\obj\Debug\net8.0\NombreSaludo.AssemblyInfoInputs.cache
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\obj\Debug\net8.0\NombreSaludo.AssemblyInfo.cs
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\obj\Debug\net8.0\NombreSaludo.csproj.CoreCompileInputs.cache
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\bin\Debug\net8.0\NombreSaludo.exe
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\bin\Debug\net8.0\NombreSaludo.deps.json
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\bin\Debug\net8.0\NombreSaludo.runtimeconfig.json
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\bin\Debug\net8.0\NombreSaludo.dll
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\bin\Debug\net8.0\NombreSaludo.pdb
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\obj\Debug\net8.0\NombreSaludo.dll
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\obj\Debug\net8.0\refint\NombreSaludo.dll
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\obj\Debug\net8.0\NombreSaludo.pdb
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\obj\Debug\net8.0\NombreSaludo.genruntimeconfig.cache
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NombreSaludo\obj\Debug\net8.0\ref\NombreSaludo.dll

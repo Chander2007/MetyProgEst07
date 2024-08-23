@@ -1,0 +1,14 @@
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\bin\Debug\net8.0\NumMayor.exe
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\bin\Debug\net8.0\NumMayor.deps.json
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\bin\Debug\net8.0\NumMayor.runtimeconfig.json
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\bin\Debug\net8.0\NumMayor.dll
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\bin\Debug\net8.0\NumMayor.pdb
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\obj\Debug\net8.0\NumMayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\obj\Debug\net8.0\NumMayor.AssemblyInfoInputs.cache
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\obj\Debug\net8.0\NumMayor.AssemblyInfo.cs
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\obj\Debug\net8.0\NumMayor.csproj.CoreCompileInputs.cache
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\obj\Debug\net8.0\NumMayor.dll
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\obj\Debug\net8.0\refint\NumMayor.dll
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\obj\Debug\net8.0\NumMayor.pdb
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\obj\Debug\net8.0\NumMayor.genruntimeconfig.cache
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\NumMayor\obj\Debug\net8.0\ref\NumMayor.dll

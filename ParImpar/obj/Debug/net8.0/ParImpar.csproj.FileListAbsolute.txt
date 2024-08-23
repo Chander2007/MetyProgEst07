@@ -1,0 +1,14 @@
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\obj\Debug\net8.0\ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\obj\Debug\net8.0\ParImpar.AssemblyInfoInputs.cache
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\obj\Debug\net8.0\ParImpar.AssemblyInfo.cs
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\obj\Debug\net8.0\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\bin\Debug\net8.0\ParImpar.exe
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\bin\Debug\net8.0\ParImpar.deps.json
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\bin\Debug\net8.0\ParImpar.runtimeconfig.json
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\bin\Debug\net8.0\ParImpar.dll
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\bin\Debug\net8.0\ParImpar.pdb
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\obj\Debug\net8.0\ParImpar.dll
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\obj\Debug\net8.0\refint\ParImpar.dll
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\obj\Debug\net8.0\ParImpar.pdb
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\obj\Debug\net8.0\ParImpar.genruntimeconfig.cache
+C:\Users\dxand\OneDrive\Escritorio\VS II semestre\ParImpar\obj\Debug\net8.0\ref\ParImpar.dll
